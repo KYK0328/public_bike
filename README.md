@@ -9,8 +9,11 @@
 **주요 역할** `기여도: 40%`
 - 경기도 교통 인프라 및 자전거 이용 특성을 알기 위한 EDA + 시각화
 - 모델링에 필요한 데이터 전처리  
-- 발표 PPT 제작- 사용 언어/라이브러리: Python, pandas, numpy skit-learn
-  
+- 발표 PPT 제작
+
+**사용 언어/라이브러리**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
 **결과**
   최종 선정 군집의 특성을 바탕으로 공공자전거 시범지역으로 제안함.
   
